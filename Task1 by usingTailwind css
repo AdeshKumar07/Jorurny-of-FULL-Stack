@@ -1,0 +1,21 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task1</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-900 grid place-content-left h-screen p-8"> 
+    <h1 class="text-white text-5xl">Task One:<p>Creating a card Special </p></h1>
+    <div class="">
+        <div class="grid place-content-center ">
+            <div class=" p-5 max-w-sm ma auto bg-white rounded-xl flex item-center space-x-4">
+                <img class="h-24  " src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2022/06/Starbucks_Corporation_Logo_2011.svg-e1657703028844.png?auto=format&q=60&fit=max&w=930" alt="">
+            </div>
+            <div class="text-2xl font-medium text-green  p-5 max-w-sm ma auto bg-white rounded-xl flex item-center space-x-4"><italic>Welcome to magdee<p>By Adesh Kumar</p></italic></div>
+        </div>
+
+    </div>
+    
+</body>
+</html>
